@@ -3,7 +3,14 @@
     <v-app-bar app color="primary" dark>
 
       <v-icon>mdi-menu</v-icon>
+      <v-spacer>
+      </v-spacer>
+
+      <h1>
+          .alurapic
+        </h1>
       
+
     </v-app-bar>
     <v-main>
       <router-view/>
